@@ -1,0 +1,36 @@
+    <form>
+        <label for="firstName">Имя:</label>
+        <input type="text" id="firstName" style = 'margin-left: 36px;'><br><br>
+        
+        <label for="lastName">Фамилия:</label>
+        <input type="text" id="lastName" style = 'margin-left: 2px;'><br><br>
+        
+        <label for="age">Возраст:</label>
+        <input type="number" id="age" style = 'margin-left: 12px;'><br><br>
+        
+        <button type="button" id="butt" style = 'margin-left: 90px;'>Добавить</button>
+      </form>
+
+      <section id="contact">
+        <h2>Контакты</h2>
+        <p>По всем вопросам обращайтесь по телефону +7 (495) 123-45-67 или отправляйте письмо на адрес info@samosir-island.ru</p>
+      </section>
+
+
+
+      <img class="main-top-bg-img-1 simple-parallax-initialized" src="https://1inch.io/img/main/main-bg-3.png" loading="lazy" alt="bg-image" id = "imgbg"; style="margin-top: 100px;">
+
+
+
+<div class="iam">
+            <p>Курбанов Али</p>
+        </div>
+        <div class="mark">
+            <p>Марк Цукерберг</p>
+        </div>
+        <div class="bill">
+            <p>Билл Гейтс</p>
+        </div>
+        <div class="ilon">
+            <p>Илон Маск</p>
+        </div>
